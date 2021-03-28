@@ -4,7 +4,7 @@ h1{
   font-size:50px;
   margin-top:61px;
 }
-#demo{
+#clock{
   color:white ;
   text-align:center ;
   font-size:40px;
@@ -15,6 +15,3 @@ body{
   background-color:rgb(100, 97, 97);
 }
 
-#clock{
-
-}

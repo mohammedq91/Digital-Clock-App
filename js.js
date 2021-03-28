@@ -1,5 +1,5 @@
-let time = document.getElementById("clock")
-time.append(p)
+
+
 
 function clock(){
   const date = new Date();
@@ -10,9 +10,10 @@ function clock(){
   const month = date.getMonth();
   const date = date.getDate();
   const year = date.getFullYear();
-  time.textcontent = `${hour}:${minute}:${second}+'/' 
-                      ${day}, ${month} ${date}+'th' ${year} `
-
+  let timeString = `Today is : ${hour}:${minute}:${second}+'/' 
+                      ${day}, ${month} ${date}+'th' ${year}`
+  let time = document.getElementById("clock")
+  time.append(clock);
 };
 clock();
 setInterval(clock, 1000);
