@@ -2,13 +2,14 @@ body{
   color:white ;
   background-color: rgb(95, 93, 93);
   text-align:center;
-  font-size:50px;  
+  font-size:40px;  
 }
-#time{
-  font-size:40px;
+
+#displayTime{
+  font-size:140px;
 }
-#date{
-  font-size:40px;
+#displayDate{
+  font-size:60px;
 }
 
 .clock-container {
@@ -16,13 +17,10 @@ body{
   margin: auto;
   text-align: center;
 }
-
 .title-container {
   width: 80%;
   margin: auto;
   text-align: center;
-  padding-top: 20px;
-  font-size: 25px;
 }
 
 #toggle-btn{
