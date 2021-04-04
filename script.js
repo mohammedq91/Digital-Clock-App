@@ -1,6 +1,5 @@
 function clock(){
   const today = new Date();
-
   const day = getDayByIndex(today.getDay());
   const month = getMonthByIndex(today.getMonth());
   const date = addDateSuffix(today.getDate());
@@ -15,7 +14,7 @@ function clock(){
   const seconds = addLeadingZero(today.getSeconds());
 
   let timeDisplay = document.getElementById('displayTime');
-  timeDisplay = `${standardHours}:${minutes}:${seconds} ${militaryHours > 12 ? 'PM' : 'AM'}`;
+  timeDisplay.textContent = `${standardHours}:${minutes}:${seconds} ${militaryHours > 12 ? 'PM' : 'AM'}`;
 }
 
 function addLeadingZero(time){
