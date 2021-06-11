@@ -2,7 +2,7 @@
 
 #### A simple digital Clock App written entirely in Javascript, HTML, and CSS.
 
-#### Play it [here](URL)
+#### Play it [here](http://127.0.0.1:5500/index.html)
 
 ![alt text](URL/400/600)
 
@@ -16,4 +16,4 @@ In this project, I learned how several topics are being used in Javascript (i.e 
 
 ## Author
 
-** Mohammed Qaralos ** - * Self Taught Software Developer *- LinkedIn | Personal Website
+- **Mohammed Qaralos** - *Self taught Software Developer* - [Website](http://127.0.0.1:5500/index.html) | [LinkedIn](https://www.linkedin.com/in/mohammed-qaralos-27151010a/)
