@@ -4,7 +4,7 @@
 
 #### Play it [here](http://127.0.0.1:5500/index.html)
 
-![alt text](URL/400/600)
+![](Screenshot(558).png)
 
 ## Summary
 
