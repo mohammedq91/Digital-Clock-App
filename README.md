@@ -2,7 +2,7 @@
 
 #### A simple digital Clock App written entirely in Javascript, HTML, and CSS.
 
-#### Play it [here](http://127.0.0.1:5500/index.html)
+#### Play it [here](https://mohammedq91.github.io/Digital-Clock-App/)
 
 ![](DigitalClockAppPhoto.png)
 
