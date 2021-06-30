@@ -14,4 +14,4 @@ In this project, I learned how several topics are being used in Javascript (i.e 
 
 ## Author
 
-- **Mohammed Qaralos** - *Self taught Software Developer* - [Website](http://127.0.0.1:5500/index.html) | [LinkedIn](https://www.linkedin.com/in/mohammed-qaralos-27151010a/)
+- **Mohammed Qaralos** - *Self taught Software Developer* - [Website]() | [LinkedIn](https://www.linkedin.com/in/mohammed-qaralos-27151010a/)
